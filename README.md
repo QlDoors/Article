@@ -5,3 +5,4 @@
 [18本中文版敏捷开发书籍收集](http://download.csdn.net/album/detail/2257/1/1)  
 [从MVC到前后端分离](http://www.csdn.net/article/2015-10-25/2826033)  
 [深入理解Andorid](http://www.infoq.com/cn/android-in-depth)  
+[Android存储系统之架构篇](http://gityuan.com/2016/07/23/android-io-arch/)
